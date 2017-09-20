@@ -4,3 +4,6 @@ List of awesome free applications for a better Windows experience - almost as go
 
 ## Launcher
 [Wox](https://github.com/Wox-launcher/Wox#installation) - Launcher for Windows, an alternative to Alfred and Launch
+
+## Torrent
+[µTorrent](http://www.utorrent.com/) - Lightweight and powerful torrent client
