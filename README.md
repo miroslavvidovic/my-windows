@@ -3,9 +3,9 @@ List of awesome free applications for a better Windows experience - almost as go
 
 ## Applications
 
-#### [Wox](https://github.com/Wox-launcher/Wox#installation) 
+#### [Keypirinha](https://github.com/Keypirinha) 
 
-- Launcher for Windows, an alternative to Alfred and Launchy
+- A fast launcher for Windows, an alternative to Alfred and Launchy
 
 #### [µTorrent](http://www.utorrent.com/) 
 
