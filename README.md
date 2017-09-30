@@ -15,3 +15,7 @@ List of awesome free applications for a better Windows experience - almost as go
 
 - Usefull desktop widgets
 - Windows alternative to [Conky](https://github.com/brndnmtthws/conky)
+
+#### [CopyQ](https://hluk.github.io/CopyQ/)
+
+- CopyQ is an advanced clipboard manager with many features
