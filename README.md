@@ -19,3 +19,7 @@ List of awesome free applications for a better Windows experience - almost as go
 #### [CopyQ](https://hluk.github.io/CopyQ/)
 
 - CopyQ is an advanced clipboard manager with many features
+
+#### [Lansweeper](https://www.lansweeper.com)
+
+- Powerful network inventory software
