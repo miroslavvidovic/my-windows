@@ -23,3 +23,7 @@ List of awesome free applications for a better Windows experience - almost as go
 #### [Lansweeper](https://www.lansweeper.com)
 
 - Powerful network inventory software
+
+#### [FreeCommander](http://freecommander.com/en/summary/)
+
+- Great alternative to standard file managers
