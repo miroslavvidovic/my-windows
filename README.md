@@ -27,3 +27,7 @@ List of awesome free applications for a better Windows experience - almost as go
 #### [FreeCommander](http://freecommander.com/en/summary/)
 
 - Great alternative to standard file managers
+
+#### [Caffeinated](https://github.com/dmnd/Caffeinated)
+
+- Simple utility to prevent your PC from going to sleep
