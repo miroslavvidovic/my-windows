@@ -31,3 +31,9 @@ List of awesome free applications for a better Windows experience - almost as go
 #### [Caffeinated](https://github.com/dmnd/Caffeinated)
 
 - Simple utility to prevent your PC from going to sleep
+
+## Advanced utilities
+
+#### [BlueScreenView](http://www.nirsoft.net/utils/blue_screen_view.html)
+
+- BlueScreenView scans all your minidump files created during 'blue screen of death' crashes
