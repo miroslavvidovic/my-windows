@@ -20,6 +20,9 @@ List of awesome free applications for a better Windows experience - almost as go
 
 - CopyQ is an advanced clipboard manager with many features
 
+#### [WinCDEmu](http://wincdemu.sysprogs.org/
+
+- The easiest way to mount an ISO
 
 #### [FreeCommander](http://freecommander.com/en/summary/)
 
@@ -36,12 +39,15 @@ List of awesome free applications for a better Windows experience - almost as go
 - BlueScreenView scans all your minidump files created during 'blue screen of death' crashes
 
 #### [SpaceSniffer](http://www.uderzo.it/main_products/space_sniffer/index.html)
+
 - A tool that lets you understand how folders and files are structured on your disks and how your disk space is used
 
 #### [Lansweeper](https://www.lansweeper.com)
+
 - Powerful network inventory software
 
 #### [Revo Uninstaller](https://www.revouninstaller.com/)
+
 - Complete and powerful software uninstall
 
   
