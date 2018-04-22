@@ -20,9 +20,6 @@ List of awesome free applications for a better Windows experience - almost as go
 
 - CopyQ is an advanced clipboard manager with many features
 
-#### [Lansweeper](https://www.lansweeper.com)
-
-- Powerful network inventory software
 
 #### [FreeCommander](http://freecommander.com/en/summary/)
 
@@ -32,12 +29,14 @@ List of awesome free applications for a better Windows experience - almost as go
 
 - Simple utility to prevent your PC from going to sleep
 
-## Advanced utilities
+## Advanced and specialized utilities
 
 #### [BlueScreenView](http://www.nirsoft.net/utils/blue_screen_view.html)
 
 - BlueScreenView scans all your minidump files created during 'blue screen of death' crashes
 
 #### [SpaceSniffer](http://www.uderzo.it/main_products/space_sniffer/index.html)
-
 - A tool that lets you understand how folders and files are structured on your disks and how your disk space is used
+
+#### [Lansweeper](https://www.lansweeper.com)
+- Powerful network inventory software
