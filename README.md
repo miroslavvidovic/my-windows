@@ -20,7 +20,7 @@ List of awesome free applications for a better Windows experience - almost as go
 
 - CopyQ is an advanced clipboard manager with many features
 
-#### [WinCDEmu](http://wincdemu.sysprogs.org/
+#### [WinCDEmu](http://wincdemu.sysprogs.org/)
 
 - The easiest way to mount an ISO
 
