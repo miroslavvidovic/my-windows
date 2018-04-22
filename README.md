@@ -40,3 +40,8 @@ List of awesome free applications for a better Windows experience - almost as go
 
 #### [Lansweeper](https://www.lansweeper.com)
 - Powerful network inventory software
+
+#### [Revo Uninstaller](https://www.revouninstaller.com/)
+- Complete and powerful software uninstall
+
+  
