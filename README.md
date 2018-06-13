@@ -38,6 +38,10 @@ List of awesome free applications for a better Windows experience - almost as go
 
 - BlueScreenView scans all your minidump files created during 'blue screen of death' crashes
 
+#### [Everything](http://www.voidtools.com/)
+
+- Locate files and folders by name instantly
+
 #### [SpaceSniffer](http://www.uderzo.it/main_products/space_sniffer/index.html)
 
 - A tool that lets you understand how folders and files are structured on your disks and how your disk space is used
@@ -49,5 +53,3 @@ List of awesome free applications for a better Windows experience - almost as go
 #### [Revo Uninstaller](https://www.revouninstaller.com/)
 
 - Complete and powerful software uninstall
-
-  
